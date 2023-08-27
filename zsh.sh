@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# https://www.drewsilcock.co.uk/compiling-zsh
+
 git clone git://git.code.sf.net/p/zsh/code zsh
 
 PREFIX=$HOME/.local
